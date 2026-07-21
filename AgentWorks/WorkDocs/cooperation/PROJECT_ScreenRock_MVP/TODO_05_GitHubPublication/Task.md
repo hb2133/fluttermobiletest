@@ -13,7 +13,7 @@
 - `docs/screenshots/rock-unpolished.png` 촬영 완료
 - `docs/screenshots/rock-fully-polished.png` 촬영 완료
 - 비밀값 및 대용량 생성물 점검 완료
-- GitHub 커밋과 push 진행 예정
+- 비공개 GitHub 저장소 `hb2133/fluttermobiletest`의 `master` 브랜치에 커밋하고 push 완료
 
 ## History Index
 - 아직 분리된 이력이 없다.
