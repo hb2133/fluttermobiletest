@@ -2,7 +2,25 @@
 
 이 문서는 이 프로젝트의 WorkDocs 표준 태그 사전이다.
 
-아직 실제 프로젝트 태그는 정의되지 않았다.
+## tofu-pet
+DisplayName: 전자 두부
+Aliases: tofu, virtual-pet
+Description: 전자 두부 캐릭터와 돌봄, 반응, 상태 표현에 관련된 작업
+
+## mobile-sensor
+DisplayName: 모바일 센서
+Aliases: accelerometer, motion
+Description: 가속도계와 흔들기 등 모바일 센서 입력에 관련된 작업
+
+## pet-rock
+DisplayName: 화면 속 돌멩이
+Aliases: rock, daily-petting
+Description: 매일 쓰다듬을수록 조금씩 윤이 나는 돌멩이와 조용한 상호작용에 관련된 작업
+
+## local-persistence
+DisplayName: 로컬 저장
+Aliases: preferences, device-storage
+Description: 기기 안에 사용자 진행 상태를 저장하고 복원하는 작업
 
 규칙:
 
